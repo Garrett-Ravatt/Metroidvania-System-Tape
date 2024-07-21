@@ -14,7 +14,7 @@ metroidvania_system/settings_file="res://SampleProject/Resources/Settings.tres"
 
 [application]
 
-config/name="Metroidvania System"
+config/name="Metroidvania System Tape"
 config/tags=PackedStringArray("addon")
 run/main_scene="res://SampleProject/Game.tscn"
 config/features=PackedStringArray("4.2")

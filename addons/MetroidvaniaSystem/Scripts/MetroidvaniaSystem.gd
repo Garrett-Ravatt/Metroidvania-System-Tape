@@ -30,6 +30,7 @@ var save_data: MetSysSaveData
 
 var last_player_position := Vector3i.MAX
 var exact_player_position: Vector2
+# NOTE: PoR
 var current_room: RoomInstance
 
 ## The current layer, for the purpose of visiting with [method set_player_position] among other things. MetSys does not modify it automatically in any way. Changing it emits [signal cell_changed] signal.
